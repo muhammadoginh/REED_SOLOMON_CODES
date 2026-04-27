@@ -1,0 +1,4 @@
+submod=reed_solomon_encode
+op_count=200
+in_bytes_per_op=16
+out_bytes_per_op=46

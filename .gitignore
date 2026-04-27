@@ -1,0 +1,64 @@
+# ===========================
+# Vivado Project Files (DO NOT COMMIT)
+# ===========================
+
+# Project metadata & databases
+*.xise
+*.xmp
+*.xpa
+*.xdl
+*.xrpt
+*.xml
+*.txt  # unless you have specific tracked .txt files (e.g., test vectors)
+
+# Cache & runtime directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.jou
+*.log
+*.backup.*
+vivado_*.jou
+vivado_*.log
+webtalk_*.jou
+webtalk_*.log
+
+# Simulation & waveform configs
+*.wdb
+*.pb
+*.ucf
+*.xdc~  # backup XDC files
+
+# Bitstreams & programming files
+*.bit
+*.bin
+*.mcs
+*.prm
+*.ltx
+*.elf
+*.mem
+*.hex
+
+# IP-related
+*.xci
+*.xcix
+*.ooc
+*.dcp
+*.edf
+*.ngc
+
+# Synthesis & implementation reports
+*.rpt
+*.csv
+*.html
+*.xml
+*.json
+
+# Temporary & OS files
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*~
